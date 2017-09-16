@@ -14,7 +14,7 @@ Source: [Brendan Fortuner@Medium](https://medium.com/@bfortuner/how-web-applicat
 
 ---------------------------
 # Web应用是如何工作的
-Web应用工作原理流程图。
+Web应用工作原理图。
 
 * 客户端（当用户点击"下单"按钮时，发生了什么？）
 * 计算机网络（信息如何在互联网中传播？）
@@ -26,3 +26,5 @@ Web应用工作原理流程图。
 * 渲染（浏览器工作原理及JavaScript语言基础）
 
 出处：[Brendan Fortuner@Medium](https://medium.com/@bfortuner/how-web-applications-work-4424c6fb175a)
+
+![Web应用工作原理图](https://raw.githubusercontent.com/z-jingjie/how-web-apps-work/master/Web%E5%BA%94%E7%94%A8%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84.png)
