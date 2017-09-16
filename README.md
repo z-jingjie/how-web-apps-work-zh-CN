@@ -16,13 +16,13 @@ Source: [Brendan Fortuner@Medium](https://medium.com/@bfortuner/how-web-applicat
 # Web应用是如何工作的
 Web应用工作原理图。
 
-* 客户端（当用户点击"下单"按钮时，发生了什么？）
-* 计算机网络（信息如何在互联网中传播？）
+* 客户端（用户点击"下单"按钮时发生了什么？）
+* 计算机网络（信息是如何在互联网中传播的？）
 * 网络安全（如何防范黑客盗取个人密码？）
 * 服务器（“云端”究竟是什么？）
-* 应用（什么事Web服务器和Web框架？）
-* 数据库（Web应用如何在数据库中检索数据？关系数据库(SQL)与非关系数据库(NoSQL)之异同？）
-* 架构扩展（Web应用如何处理百万级高并发请求）
+* 应用（什么是Web服务器和Web框架？）
+* 数据库（Web应用如何在数据库中检索数据？关系数据库(SQL)与非关系数据库(NoSQL)有何异同？）
+* 架构扩展（Web应用如何处理百万级高并发请求？）
 * 渲染（浏览器工作原理及JavaScript语言基础）
 
 出处：[Brendan Fortuner@Medium](https://medium.com/@bfortuner/how-web-applications-work-4424c6fb175a)
